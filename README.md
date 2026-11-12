@@ -1,4 +1,4 @@
-````markdown
+
 # ⚡ Mark Calla
 
 <div align="center">
@@ -89,4 +89,4 @@ If you’re working on something interesting, feel free to reach out.
 <sub>Designed with curiosity, built with code, and powered by iteration.</sub>
 
 </div>
-```
+

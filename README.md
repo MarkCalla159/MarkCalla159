@@ -101,19 +101,6 @@ View project →
 
 ---
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MarkCalla159&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mark's GitHub stats" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkCalla159&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
 
 ## 🧭 What I’m working toward
 
